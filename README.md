@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Singhsarthak234
-- 👀 I’m interested in Chemistry,Physics and Technology.
+- 👀 I’m interested in Mathematics,Physics and Technology.
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
